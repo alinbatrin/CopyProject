@@ -1,0 +1,10 @@
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\bin\Debug\CopyProject.exe.config
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\bin\Debug\CopyProject.exe
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\bin\Debug\CopyProject.pdb
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\obj\Debug\CopyProject.Form1.resources
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\obj\Debug\CopyProject.Properties.Resources.resources
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\obj\Debug\CopyProject.csproj.GenerateResource.Cache
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\obj\Debug\CopyProject.csproj.CoreCompileInputs.cache
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\obj\Debug\CopyProject.exe
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\obj\Debug\CopyProject.pdb
+C:\Alin\RepoAmdaris\CopyProject\CopyProject\obj\Debug\CopyProject.csprojResolveAssemblyReference.cache
